@@ -45,10 +45,11 @@
         "whitney_bold": "https:\/\/cdn.discordapp.com\/attachments\/770731397852692532\/974760167923142687\/moto.ttf"
     },
     "manifest": {
-        "version": "3.31",
+        "version": "3.32",
         "name": "Pure Amoled ",
         "author": "Akita#0922",
-        "updater": "https:\/\/raw.githubusercontent.com\/WarishNet\/Pure-Amoled\/main\/PureAmoled.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/WarishNet\/Aliucord-Themes\/main\/PureAmoled\/PureAmoled.json",
+        "license": "GNU GPL v3.0"
     },
     "simple_colors": {
         "accent": -1052689,
