@@ -37,7 +37,17 @@
         "ic_mobile": -1644826,
         "ic_archived_clock_dark": -789517,
         "ic_channel_pinned_message": -8355712,
-        "drawable_bg_reaction_dark": -625757261
+        "drawable_bg_reaction_dark": -625757261,
+        "ic_spotify_green_24dp": -1644826,
+        "ic_hypesquad_house3_32dp": -1644826,
+        "ic_hypesquad_house2_32dp": -1644826,
+        "ic_hypesquad_house1_32dp": -1644826,
+        "ic_account_twitter_light_and_dark_24dp": -1644826,
+        "ic_account_youtube_light_and_dark_24dp": -855053,
+        "ic_account_steam_white_24dp": -1644826,
+        "ic_account_github_white_24dp": -1644826,
+        "ic_account_reddit_light_and_dark_24dp": -1644826,
+        "ic_account_spotify_light_and_dark_24dp": -1644826
     },
     "fonts": {
         "ginto_medium": "https:\/\/cdn.discordapp.com\/attachments\/770731397852692532\/968529060412149760\/JosefinSans-Medium.ttf",
@@ -50,7 +60,7 @@
         "whitney_bold": "https:\/\/cdn.discordapp.com\/attachments\/770731397852692532\/974760167923142687\/moto.ttf"
     },
     "manifest": {
-        "version": "3.46",
+        "version": "3.48",
         "name": "Pure Amoled ",
         "updater": "https:\/\/raw.githubusercontent.com\/WarishNet\/Aliucord-Themes\/main\/PureAmoled\/PureAmoled.json",
         "license": "GNU GPL v3.0",
